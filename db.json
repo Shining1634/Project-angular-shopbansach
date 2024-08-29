@@ -1,0 +1,78 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Đắc Nhân Tâm",
+      "description": "Đắc Nhân Tâm",
+      "price": 36000,
+      "img": "../assets/img/1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Hoàng Tử Bé",
+      "description": "Hoàng Tử Bé",
+      "price": 129000,
+      "img": "../assets/img/2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Trăm Năm Cô Đơn",
+      "description": "Trăm Năm Cô Đơn",
+      "price": 28000,
+      "img": "../assets/img/3.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Nhà Giả Kim",
+      "description": "Nhà Giả Kim",
+      "price": 45000,
+      "img": "../assets/img/4.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Lược Sử Vạn Vật",
+      "description": "Lược Sử Vạn Vật",
+      "price": 55000,
+      "img": "../assets/img/5.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Ai Rồi Cũng Qua",
+      "description": "Ai Rồi Cũng Qua Để Không Hối Hận",
+      "price": 25000,
+      "img": "../assets/img/6.jpg"
+    }
+  ],
+  "Users": [
+    {
+      "id": "1",
+      "name": "khang",
+      "email": "khang@gmail.com",
+      "phone": "0765231603",
+      "pass": "1234567890"
+    },
+    {
+      "id": "4d65",
+      "name": "khang",
+      "email": "shining1634@gmail.com",
+      "phone": "0765231603",
+      "password": "123456789"
+    },
+    {
+      "id": "6aeb",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "phone": "123456789",
+      "password": "123456789",
+      "role": "admin"
+    },
+    {
+      "id": "9fa8",
+      "name": "khang",
+      "email": "khang123@gmail.com",
+      "phone": "0987654321",
+      "password": "aimabiet",
+      "role": "user"
+    }
+  ]
+}
